@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "915246233332",
+    "project_id": "twitter-clone-f43c1",
+    "storage_bucket": "twitter-clone-f43c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915246233332:android:513bfa587754f620b150a1",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915246233332-atcrtf007gijcuqrjc572so5aqa5v72t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1h3UItWhZ3Tq5FJq9SBUi8nXCU2JJGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915246233332-atcrtf007gijcuqrjc572so5aqa5v72t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915246233332:android:752b83ba90a8c0a8b150a1",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915246233332-atcrtf007gijcuqrjc572so5aqa5v72t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1h3UItWhZ3Tq5FJq9SBUi8nXCU2JJGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915246233332-atcrtf007gijcuqrjc572so5aqa5v72t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
