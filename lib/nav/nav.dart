@@ -153,7 +153,7 @@ class _NavState extends State<Nav> {
               ),
               label: ""),
 
-          // BottomNavigationBarItem(icon: Icon(Icons.email))
+         
         ],
       ),
     );
